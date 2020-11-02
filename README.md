@@ -1,5 +1,5 @@
 <center><h1>Kanjana</h1></center> 
-## Create by Kanjana
+## Created by Kanjana
 
 
 * Tutorial
